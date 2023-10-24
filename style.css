@@ -25,13 +25,12 @@ body {
 .project {
   background-color: #8ec5fc;
   background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
-  border: 2px solid #e6c7e3;
-  padding: 20px;
+  padding: 60px;
   border-radius: 10px; /* Increase border radius for a softer look */
   flex: 1;
-  max-width: 350px;
+  max-width: 450px;
   text-align: left;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
   transition: transform 0.2s ease-in-out;
 }
 
@@ -87,7 +86,7 @@ body {
   text-decoration: none;
   background-color: #007bff;
   color: #fff;
-  padding: 8px 20px;
+  padding: 10px 41px;
   border-radius: 5px;
 
   display: inline-flex; /* Display the link as a flex container */
@@ -98,7 +97,7 @@ body {
   text-decoration: none;
   background-color: #1b1b1b;
   color: #fff;
-  padding: 8px 20px;
+  padding: 10px 39px;
   border-radius: 5px;
 
   display: inline-flex; /* Display the link as a flex container */
@@ -208,7 +207,7 @@ body {
 
 /* Style the "View Resume" button */
 .about .button {
-  background-color: #007bff; /* Set the button background color as needed */
+  background-image: linear-gradient(135deg, #f97794 10%, #623aa2 100%);
   color: #fff; /* Set the button text color as needed */
   font-weight: 500;
   padding: 10px 20px;
