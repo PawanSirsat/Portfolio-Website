@@ -60,6 +60,10 @@ body {
   width: 350px;
 }
 
+#bottom {
+  margin-bottom: 21px;
+}
+
 .project-actions {
   display: inline-flex;
   /* flex-direction: column;
@@ -107,6 +111,7 @@ body {
 
 /* Style the hero section with a flexbox layout */
 .hero {
+  margin-top: 150px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -223,8 +228,16 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
+  position: fixed;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.3); /* Transparent with alpha value */
 
+  left: 0;
+  width: 100%;
+  z-index: 100; /* Set a high z-index value to keep it on top of other content */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a box shadow for a nice effect */
+  backdrop-filter: blur(10px); /* Add blur effect */
+}
 /* Remove list item (li) decorations */
 nav ul,
 .articles ul,
