@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: monospace;
   margin: 0;
   padding: 0;
   background-color: #8ec5fc;
@@ -96,7 +96,7 @@ body {
   text-decoration: none;
   background-color: #1b1b1b;
   color: #fff;
-  padding: 10px 39px;
+  padding: 13px 30px;
   border-radius: 5px;
 
   display: inline-flex; /* Display the link as a flex container */
@@ -149,6 +149,7 @@ body {
 /* Style the paragraph */
 .hero p {
   max-width: 500px;
+  font-size: 1.5rem;
 }
 
 .hero .button {
@@ -156,6 +157,7 @@ body {
   /* Set the button background color as needed */
   color: #fff;
   font-weight: 500;
+  font-size: 1.5em;
 
   /* Set the button text color as needed */
   padding: 10px 20px;
@@ -182,7 +184,7 @@ body {
 /* Style the "About Me" section */
 .about {
   background-color: #f0f0f0; /* Set the background color as needed */
-  padding: 40px;
+  padding: 10px;
   text-align: center; /* Center align the content */
 }
 
@@ -209,6 +211,7 @@ body {
   background-image: linear-gradient(135deg, #f97794 10%, #623aa2 100%);
   color: #fff; /* Set the button text color as needed */
   font-weight: 500;
+  font-size: 1.5em;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
@@ -234,7 +237,12 @@ nav ul,
   background-color: transparent;
 }
 .about p {
-  font-size: 50px;
+  font-size: 42px;
+  font-weight: bold;
+}
+
+#b1 {
+  font-size: 35px;
   font-weight: bold;
 }
 .center-icon {
@@ -261,6 +269,8 @@ nav a,
   text-decoration: none;
   /* Remove anchor tag decoration */
   color: #201c1c;
+  font-weight: 700;
+  font-family: monospace;
   /* Set the anchor tag text color to black */
 }
 
