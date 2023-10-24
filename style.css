@@ -16,7 +16,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px; /* Adjust the spacing between projects as needed */
+  gap: 60px; /* Adjust the spacing between projects as needed */
   list-style: none;
   padding: 0;
   margin: 0;
@@ -30,7 +30,7 @@ body {
   flex: 1;
   max-width: 450px;
   text-align: left;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.8);
   transition: transform 0.2s ease-in-out;
 }
 
@@ -54,8 +54,7 @@ body {
   info and actions */
   text-align: center;
 }
-.project-info h3 {
-}
+
 .project-info img {
   height: 250px;
   width: 350px;

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Coding-Quizzer-BackendAsService",
+    "image": "./img/project1.png",
+    "tech": ["html-5", "css3", "javascript"],
+    "description": "The Coding Quiz Generator is a web application that dynamically generates coding-related quizzes, allowing users to test their knowledge and skills. Used Google Firebase for Backend as a service",
+    "liveDemo": "https://pawansirsat.github.io/Coding-Quizzer-BackendAsService/",
+    "githubLink": "https://github.com/PawanSirsat/Coding-Quizzer-BackendAsService"
+  },
+  {
+    "name": "JavaScript Project Collection",
+    "image": "https://user-images.githubusercontent.com/48860105/277800812-500f81f9-d887-4bf8-9852-cdfeb621a836.png",
+    "tech": ["html-5", "css3", "javascript"],
+    "description": "Explore JavaScript Day by Day: This repository serves as my learning journey through JavaScript. Each day, I tackle different JavaScript projects, documenting my progress and sharing code examples.",
+    "liveDemo": "https://pawansirsat.github.io/JavaScript_Projects/",
+    "githubLink": "https://github.com/PawanSirsat/JavaScript_Projects"
+  },
+  {
+    "name": "ClassRoom Management",
+    "image": "https://user-images.githubusercontent.com/48860105/258714595-511295d9-2d3f-41b4-be20-abc066b35967.png",
+    "tech": ["html-5", "css3", "javascript"],
+    "description": "The application has three user roles: admin, teacher, and student. As an admin, I created a feature-rich admin panel with seven modules, allowing for easy management of student and teacher information. CRUD operations",
+    "githubLink": "https://github.com/PawanSirsat/ClassRoom_Management"
+  }
+]
