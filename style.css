@@ -31,11 +31,21 @@ body {
   max-width: 350px; /* Limit the maximum width for larger screens */
   text-align: left; /* Align text to the left */
 }
-
+#tech {
+  padding: auto;
+  text-align: center;
+}
+#tech img {
+  width: 55px;
+  height: 55px;
+}
 .project-info {
   flex: 1;
-  padding-right: 20px; /* Add spacing between project info and actions */
-  text-align: left;
+  padding-right: 20px; /* Add spacing between project 
+  info and actions */
+  text-align: center;
+}
+.project-info h3 {
 }
 .project-info img {
   height: 250px;
