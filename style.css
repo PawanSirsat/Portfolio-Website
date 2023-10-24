@@ -43,9 +43,9 @@ body {
 }
 
 .project-actions {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  display: inline-flex;
+  /* flex-direction: column;
+  justify-content: space-between; */
 }
 
 .project-actions img {
@@ -67,25 +67,24 @@ body {
   text-decoration: none;
   background-color: #007bff;
   color: #fff;
-  padding: 10px 120px;
+  padding: 8px 20px;
   border-radius: 5px;
 
   display: inline-flex; /* Display the link as a flex container */
   align-items: center; /* Center items vertically */
   text-align: center;
-  margin-bottom: 10px;
 }
 .project a {
   text-decoration: none;
-  background-color: #007bff;
+  background-color: #1b1b1b;
   color: #fff;
-  padding: 10px 100px;
+  padding: 8px 20px;
   border-radius: 5px;
 
   display: inline-flex; /* Display the link as a flex container */
   align-items: center; /* Center items vertically */
   text-align: center;
-  margin-bottom: 10px;
+  margin-left: 10px;
 }
 
 /* Style the hero section with a flexbox layout */
@@ -134,6 +133,19 @@ body {
   max-width: 500px;
 }
 
+.hero .button {
+  background-color: #1b1b1b;
+  /* Set the button background color as needed */
+  color: #fff;
+  font-weight: 500;
+
+  /* Set the button text color as needed */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+}
 /* Style the button */
 .button {
   background-color: #007bff;
