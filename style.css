@@ -117,7 +117,7 @@ body {
 
 /* Style the hero section with a flexbox layout */
 .hero {
-  margin-top: 150px;
+  margin-top: 110px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -202,7 +202,8 @@ h1 {
 
 /* Style the bottom section containing the buttons and social links */
 .bottom-section {
-  padding: 20px;
+  text-align: center;
+  margin-top: 15px;
   flex: 0; /* Take up two-thirds of the available space */
 }
 
@@ -234,10 +235,10 @@ h1 {
 }
 
 .social-links a img {
-  width: 38px;
-  height: 38px;
+  width: 45px;
+  height: 45px;
   border: none;
-  margin-bottom: 10px;
+  margin-right: 20px;
 }
 
 /* .button {
@@ -254,7 +255,6 @@ h1 {
 /* Style the "About Me" section */
 .about {
   background-color: #f0f0f0; /* Set the background color as needed */
-  padding: 10px;
   text-align: center; /* Center align the content */
 }
 
@@ -272,7 +272,7 @@ h1 {
 
 /* Style the "About Me" paragraph */
 .about p {
-  margin: 20px 0; /* Add spacing between the paragraph and the heading */
+  margin: 12px 0; /* Add spacing between the paragraph and the heading */
   font-size: 1.2rem; /* Set the font size for the paragraph */
 }
 
