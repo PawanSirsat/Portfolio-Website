@@ -89,6 +89,8 @@ body {
 
 .project p {
   margin: 25px 0;
+  font-size: 15px;
+  text-align: left;
 }
 
 #live {
@@ -144,7 +146,18 @@ body {
   width: 150px;
   height: auto;
   border-radius: 50%;
+  background-size: cover;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.9);
 }
+
+/* @keyframes blink {
+  0% {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  100% {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.9);
+  }
+} */
 
 /* Style the hero content */
 /* .hero-content {
