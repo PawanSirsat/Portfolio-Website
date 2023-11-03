@@ -8,7 +8,7 @@ fetch('projects.json')
       projectItem.innerHTML = `
         <div class="project-info">
           <img id="bottom" src="${project.image}" alt="${project.name}">
-          <h3>${project.name}</h3>
+          <h3 id="zero-bottom">${project.name}</h3>
           <div id="tech">
             ${project.tech
               .map(
