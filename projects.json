@@ -14,7 +14,14 @@
     "description": "Modern E-commerce Platform: Experience seamless online shopping with our e-commerce website developed using the Spring framework for robust back-end functionality and Angular for a dynamic and responsive user interface.",
     "githubLink": "https://github.com/PawanSirsat/Ecommerce_Website-Angular-Spring"
   },
-
+  {
+    "name": "React-Journey",
+    "image": "https://user-images.githubusercontent.com/48860105/282162708-5c71bc49-f720-4cc7-9b0f-327a3ccf6b36.png",
+    "tech": ["html-5", "css3", "react"],
+    "description": "Embark on your React Journey! Explore hands-on projects, master key concepts, and build a solid foundation in React development with this interactive showcase on GitHub.",
+    "liveDemo": "https://react-journey-liard.vercel.app/",
+    "githubLink": "https://github.com/PawanSirsat/React-Journey"
+  },
   {
     "name": "JavaScript Project Collection",
     "image": "https://user-images.githubusercontent.com/48860105/277800812-500f81f9-d887-4bf8-9852-cdfeb621a836.png",
