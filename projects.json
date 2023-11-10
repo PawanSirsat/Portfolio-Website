@@ -2,7 +2,12 @@
   {
     "name": "Coding-Quizzer-BackendAsService",
     "image": "./img/project1.png",
-    "tech": ["html-5", "css3", "javascript", "server"],
+    "tech": [
+      "https://img.icons8.com/fluency/48/html-5.png",
+      "https://img.icons8.com/fluency/48/css3.png",
+      "https://img.icons8.com/fluency/48/javascript.png",
+      "https://img.icons8.com/fluency/48/server.png"
+    ],
     "description": "The Coding Quiz Generator is a web application that dynamically generates coding-related quizzes, allowing users to test their knowledge and skills. Used Google Firebase for Backend as a service",
     "liveDemo": "https://pawansirsat.github.io/Coding-Quizzer-BackendAsService/",
     "githubLink": "https://github.com/PawanSirsat/Coding-Quizzer-BackendAsService"
@@ -10,14 +15,23 @@
   {
     "name": "Ecommerce_Website-Angular-Spring",
     "image": "https://user-images.githubusercontent.com/48860105/244513157-1cfb4ada-1a54-45d3-8c2f-e5d0dc5b59db.png",
-    "tech": ["html-5", "angularjs", "javascript", "java-coffee-cup-logo--v1"],
+    "tech": [
+      "https://img.icons8.com/fluency/48/html-5.png",
+      "https://img.icons8.com/fluency/48/angularjs.png",
+      "https://img.icons8.com/fluency/48/javascript.png",
+      "https://img.icons8.com/fluency/48/java-coffee-cup-logo--v1.png"
+    ],
     "description": "Modern E-commerce Platform: Experience seamless online shopping with our e-commerce website developed using the Spring framework for robust back-end functionality and Angular for a dynamic and responsive user interface.",
     "githubLink": "https://github.com/PawanSirsat/Ecommerce_Website-Angular-Spring"
   },
   {
     "name": "React-Journey",
     "image": "https://user-images.githubusercontent.com/48860105/282162708-5c71bc49-f720-4cc7-9b0f-327a3ccf6b36.png",
-    "tech": ["html-5", "css3", "react-native"],
+    "tech": [
+      "https://img.icons8.com/fluency/48/html-5.png",
+      "https://img.icons8.com/fluency/48/css3.png",
+      "https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/1A1A1A/external-react-social-media-tanah-basah-glyph-tanah-basah.png"
+    ],
     "description": "Embark on your React Journey! Explore hands-on projects, master key concepts, and build a solid foundation in React development with this interactive showcase on GitHub.",
     "liveDemo": "https://react-journey-liard.vercel.app/",
     "githubLink": "https://github.com/PawanSirsat/React-Journey"
@@ -25,7 +39,11 @@
   {
     "name": "JavaScript Project Collection",
     "image": "https://user-images.githubusercontent.com/48860105/277800812-500f81f9-d887-4bf8-9852-cdfeb621a836.png",
-    "tech": ["html-5", "css3", "javascript"],
+    "tech": [
+      "https://img.icons8.com/fluency/48/html-5.png",
+      "https://img.icons8.com/fluency/48/css3.png",
+      "https://img.icons8.com/fluency/48/javascript.png"
+    ],
     "description": "Explore JavaScript Day by Day: This repository serves as my learning journey through JavaScript. Each day, I tackle different JavaScript projects, documenting my progress and sharing code examples.",
     "liveDemo": "https://pawansirsat.github.io/JavaScript_Projects/",
     "githubLink": "https://github.com/PawanSirsat/JavaScript_Projects"
@@ -33,14 +51,24 @@
   {
     "name": "ClassRoom Management",
     "image": "https://user-images.githubusercontent.com/48860105/258714595-511295d9-2d3f-41b4-be20-abc066b35967.png",
-    "tech": ["html-5", "css3", "javascript", "java-coffee-cup-logo--v1"],
+    "tech": [
+      "https://img.icons8.com/fluency/48/html-5.png",
+      "https://img.icons8.com/fluency/48/css3.png",
+      "https://img.icons8.com/fluency/48/javascript.png",
+      "https://img.icons8.com/fluency/48/java-coffee-cup-logo--v1.png"
+    ],
     "description": "The application has three user roles: admin, teacher, and student. As an admin, I created a feature-rich admin panel with seven modules, allowing for easy management of student and teacher information. CRUD operations",
     "githubLink": "https://github.com/PawanSirsat/ClassRoom_Management"
   },
   {
     "name": "Generate-RandomUser-API",
     "image": "https://user-images.githubusercontent.com/48860105/277830647-4a2cb0e6-6024-4544-bce1-22ae0af0a208.png",
-    "tech": ["html-5", "css3", "javascript", "api"],
+    "tech": [
+      "https://img.icons8.com/fluency/48/html-5.png",
+      "https://img.icons8.com/fluency/48/css3.png",
+      "https://img.icons8.com/fluency/48/javascript",
+      "https://img.icons8.com/fluency/48/api"
+    ],
     "description": "RandomUserGenerator is a web application that utilizes a random user data API to generate and display detailed user profiles",
     "liveDemo": "https://pawansirsat.github.io/Generate-RandomUser-API/",
     "githubLink": "https://github.com/PawanSirsat/Generate-RandomUser-API"
@@ -48,7 +76,12 @@
   {
     "name": "Github-Contribution-Graph-API",
     "image": "https://user-images.githubusercontent.com/48860105/279524045-de85e379-eabe-4757-aae6-8de38f2e687a.png",
-    "tech": ["html-5", "css3", "javascript", "api"],
+    "tech": [
+      "https://img.icons8.com/fluency/48/html-5.png",
+      "https://img.icons8.com/fluency/48/css3.png",
+      "https://img.icons8.com/fluency/48/javascript",
+      "https://img.icons8.com/fluency/48/api"
+    ],
     "description": "This web application allows users to search for GitHub users and view comprehensive information about their GitHub profiles. The main feature is a visually appealing contribution calendar that displays the user's daily contribution activity.",
     "liveDemo": "https://pawansirsat.github.io/Github-Contribution-Graph-API/",
     "githubLink": "https://github.com/PawanSirsat/Github-Contribution-Graph-API"
@@ -56,7 +89,11 @@
   {
     "name": "Project-Portfolio-Website",
     "image": "./img/portfolio.png",
-    "tech": ["html-5", "css3", "javascript"],
+    "tech": [
+      "https://img.icons8.com/fluency/48/html-5.png",
+      "https://img.icons8.com/fluency/48/css3.png",
+      "https://img.icons8.com/fluency/48/javascript"
+    ],
     "description": "This web application allows users to search for GitHub users and view comprehensive information about their GitHub profiles. The main feature is a visually appealing contribution calendar that displays the user's daily contribution activity.",
     "liveDemo": "https://pawansirsat.github.io/Portfolio-Website/",
     "githubLink": "https://github.com/PawanSirsat/Portfolio-Website"

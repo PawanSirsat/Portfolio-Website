@@ -11,10 +11,7 @@ fetch('projects.json')
           <h3 id="zero-bottom">${project.name}</h3>
           <div id="tech">
             ${project.tech
-              .map(
-                (tech) =>
-                  `<img src="https://img.icons8.com/fluency/48/${tech}.png" alt="${tech}" />`
-              )
+              .map((tech) => `<img src="${tech}" alt="${tech}" />`)
               .join('')}
           </div>
           <p>${project.description}</p>
