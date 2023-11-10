@@ -17,7 +17,7 @@
   {
     "name": "React-Journey",
     "image": "https://user-images.githubusercontent.com/48860105/282162708-5c71bc49-f720-4cc7-9b0f-327a3ccf6b36.png",
-    "tech": ["html-5", "css3", "react"],
+    "tech": ["html-5", "css3", "react-native"],
     "description": "Embark on your React Journey! Explore hands-on projects, master key concepts, and build a solid foundation in React development with this interactive showcase on GitHub.",
     "liveDemo": "https://react-journey-liard.vercel.app/",
     "githubLink": "https://github.com/PawanSirsat/React-Journey"
