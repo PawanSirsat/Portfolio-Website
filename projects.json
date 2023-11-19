@@ -13,6 +13,19 @@
     "githubLink": "https://github.com/PawanSirsat/Coding-Quizzer-BackendAsService"
   },
   {
+    "name": "Social-Media-React-Appwrite",
+    "image": "https://user-images.githubusercontent.com/48860105/284087260-c418f01d-8881-40db-90c6-7513057d4482.png",
+    "tech": [
+      "https://img.icons8.com/fluency/48/html-5.png",
+      "https://img.icons8.com/fluency/48/css3.png",
+      "https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/1A1A1A/external-react-social-media-tanah-basah-glyph-tanah-basah.png",
+      "https://img.icons8.com/fluency/48/server.png"
+    ],
+    "description": "MySocialMediaWebsite is a full-stack social media platform built with modern web technologies. It provides the power of Tailwind CSS for styling, React with TypeScript for a robust front-end, React Query for efficient data fetching, and Appwrite as the backend database solution.",
+    "liveDemo": "https://social-media-react-appwrite.vercel.app/",
+    "githubLink": "https://github.com/PawanSirsat/Social-Media-React-Appwrite"
+  },
+  {
     "name": "Ecommerce_Website-Angular-Spring",
     "image": "https://user-images.githubusercontent.com/48860105/244513157-1cfb4ada-1a54-45d3-8c2f-e5d0dc5b59db.png",
     "tech": [
