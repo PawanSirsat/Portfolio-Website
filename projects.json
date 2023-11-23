@@ -50,6 +50,18 @@
     "githubLink": "https://github.com/PawanSirsat/React-Journey"
   },
   {
+    "name": "Password-Manager-React",
+    "image": "https://user-images.githubusercontent.com/48860105/285125509-852cf144-c2b9-4d7e-a607-a041596b454c.png",
+    "tech": [
+      "https://img.icons8.com/fluency/48/html-5.png",
+      "https://img.icons8.com/fluency/48/css3.png",
+      "https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/1A1A1A/external-react-social-media-tanah-basah-glyph-tanah-basah.png"
+    ],
+    "description": "The app features an automatic password generator that creates strong and secure passwords for your various online accounts.all your sensitive information is stored locally using browser's local storage, eliminating the need for external servers or cloud storage.",
+    "liveDemo": "https://password-manager-react.vercel.app/",
+    "githubLink": "https://github.com/PawanSirsat/Password-Manager-React"
+  },
+  {
     "name": "JavaScript Project Collection",
     "image": "https://user-images.githubusercontent.com/48860105/277800812-500f81f9-d887-4bf8-9852-cdfeb621a836.png",
     "tech": [
